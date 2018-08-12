@@ -1,0 +1,21 @@
+body {
+ margin: 0;
+ padding: 0;
+ background: lightcyan;
+ height: 100%;
+}
+
+/* NAVBAR */
+
+.navbar a:hover{
+  cursor: pointer;
+}
+
+.avatar{
+  display: inline-block;
+  width: 30px;
+}
+
+
+
+
